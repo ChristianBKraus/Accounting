@@ -24,3 +24,10 @@ hs_err_pid*
 
 /.che/modules
 /.che/project.json
+.cds_gen.log
+
+# generated HANA sources
+/db/src/*
+
+# generated resources in java package
+/srv/src/main/resources/edmx/*
