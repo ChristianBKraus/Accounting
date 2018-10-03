@@ -29,5 +29,7 @@ hs_err_pid*
 # generated HANA sources
 /db/src/*
 
+/node_modules/*
+
 # generated resources in java package
 #/srv/src/main/resources/edmx/*

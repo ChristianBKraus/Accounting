@@ -2,7 +2,7 @@
   "definitions": {
     "AccountService": {
       "kind": "service",
-      "@source": "srv/my-service.cds"
+      "@source": "srv\\my-service.cds"
     },
     "AccountService.Account": {
       "kind": "entity",
