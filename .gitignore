@@ -30,4 +30,4 @@ hs_err_pid*
 /db/src/*
 
 # generated resources in java package
-/srv/src/main/resources/edmx/*
+#/srv/src/main/resources/edmx/*
